@@ -7,7 +7,7 @@ To analyze subscription churn and retention patterns on a weekly basis to identi
 The Product Manager raised concerns that monthly retention analysis might overlook critical trends, potentially missing valuable insights. Therefore, a weekly cohort analysis was conducted to monitor how many subscribers remained active each week from the start of their subscription up to six weeks.
 
 **Data Source**:
-The analysis was performed using the `turing_data_analytics.subscriptions` table in BigQuery, focusing on subscription data up to February 7, 2021.
+The analysis was performed using the `subscriptions` table in BigQuery, focusing on subscription data up to February 7, 2021.
 
 **Methodology**:
 1. **Data Extraction**: 
