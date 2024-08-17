@@ -1,7 +1,7 @@
 ### **Project Title**: **Cohort Analysis for Weekly Subscription Retention**
 
 **Objective**: 
-To analyze subscription churn and retention patterns on a weekly basis to identify early indicators of customer behavior and potential areas for improvement. This analysis aims to provide actionable insights that can enhance customer retention and reduce churn.
+To analyze subscription churn and retention patterns on a weekly basis to identify early indicators of customer behaviour and potential areas for improvement. This analysis aims to provide actionable insights that can enhance customer retention and reduce churn.
 
 **Background**:
 The Product Manager raised concerns that monthly retention analysis might overlook critical trends, potentially missing valuable insights. Therefore, a weekly cohort analysis was conducted to monitor how many subscribers remained active each week from the start of their subscription up to six weeks.
@@ -38,6 +38,6 @@ The analysis was performed using the `turing_data_analytics.subscriptions` table
 
 - This is the link to my [spreadsheet](https://docs.google.com/spreadsheets/d/1A_e-q5ZDMOiVWtaCWS6qksyWw9kA3Ub9QLvAyuV8Vtc/edit?gid=0#gid=0). The spreadsheet shows my **dashboard**, **the data and my workings**, **insights**, and **recommendations**. 
 
-Note: *I have also attached the .sql file to this repository*. You can also check the SQL Query [here]
+Note: *I have also attached the .sql file to this repository*. You can also check the SQL Query [here](https://github.com/bayoxx/Cohort-analysis-BigQuery-Spreadsheet-/blob/main/weekly%20retention%20and%20cohort.sql)
 
 This project demonstrates the application of cohort analysis to provide actionable insights into customer retention, showcasing the ability to identify patterns and recommend strategic improvements.
